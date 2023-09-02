@@ -5,4 +5,4 @@ Hi I'm a high school student, mainly learning front-end development, welcome to 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=applecdn&theme=vue-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsiangfeng&layout=compact&theme=vue-dark)
 
-![snake gif](https://github.com/applecdn/applecdn/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/applecdn/ShouShouRen/blob/output/github-contribution-grid-snake-dark.svg)
