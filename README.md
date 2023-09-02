@@ -3,7 +3,5 @@ Hi I'm a high school student, mainly learning front-end development, welcome to 
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ShouShouRen&theme=cobalt)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShouShouRen&layout=compact) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShouShouRen&layout=compact" height="195px">
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShouShouRen&layout=compact)
 ![snake gif](https://github.com/ShouShouRen/ShouShouRen/blob/output/github-contribution-grid-snake-dark.svg)
