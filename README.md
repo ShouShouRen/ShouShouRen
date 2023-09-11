@@ -1,4 +1,4 @@
-Hi I'm a high school student, mainly learning front-end development, welcome to cooperate with me My email is peterchen2017125@gmail.com
+Hi I'm a college student, mainly learning front-end development, welcome to cooperate with me My email is peterchen2017125@gmail.com
 
 
 
